@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfbf3da4-c5f6-466e-9a98-fe06bef8da8a" name="Default Changelist" comment="" />
+    <list default="true" id="bfbf3da4-c5f6-466e-9a98-fe06bef8da8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hhback.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hhback.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +66,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="hhback/invalid/Django" />
+    </ignored-facets>
+  </component>
   <component name="ProjectId" id="1ZswJew3sPYqSxtARrKCyZdLuoX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -69,8 +83,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../../Torrent_game_backend" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -84,7 +99,7 @@
       <recent name="D:\загрузки\django projects\hhback\api\views" />
     </key>
   </component>
-  <component name="RunManager" selected="Django server.hhback">
+  <component name="RunManager" selected="Python.views">
     <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hhback" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,6 +114,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hhback" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api/views.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,6 +169,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.views" />
         <item itemvalue="Python.manage" />
       </list>
     </recent_temporary>
@@ -161,30 +198,39 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586862341213">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="232" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587715094615">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586862341213" />
+    <state x="232" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1587715094615" />
     <state x="503" y="49" key="#hhback" timestamp="1586849812919">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="503" y="49" key="#hhback/0.0.1536.824@0.0.1536.824" timestamp="1586849812919" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1587088990827">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="580" y="188" key="FileChooserDialogImpl" timestamp="1588171668194">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="188" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1588171668194" />
+    <state width="1579" height="221" key="GridCell.Tab.0.bottom" timestamp="1587890624511">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587088990827" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1587088990827">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1579" height="221" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1587890624511" />
+    <state width="1579" height="221" key="GridCell.Tab.0.center" timestamp="1587890624509">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587088990827" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1587088990827">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1579" height="221" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1587890624509" />
+    <state width="1579" height="221" key="GridCell.Tab.0.left" timestamp="1587890624509">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587088990827" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1587088990827">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1579" height="221" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1587890624509" />
+    <state width="1579" height="221" key="GridCell.Tab.0.right" timestamp="1587890624511">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587088990827" />
+    <state width="1579" height="221" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1587890624511" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1587058978285">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -201,14 +247,16 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587058978285" />
-    <state x="279" y="58" key="SettingsEditor" timestamp="1586862352268">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="291" y="61" key="SettingsEditor" timestamp="1587891190653">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586862352268" />
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1587088983953">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="291" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1587891190653" />
+    <state x="497" y="250" key="com.intellij.ide.util.TipDialog" timestamp="1588171630672">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587088983953" />
+    <state x="497" y="250" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1588171630672" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
